@@ -28,6 +28,7 @@
 ### Things I'm Learning
 ![THREE JS](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![SPRING](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![GREEN SOCK](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 ![BLENDER](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![GO](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![WEBPACK](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
@@ -50,6 +51,6 @@
 ![PHOTOSHOP](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 ## GITHUB STATS
-[![Josh Lavallee - Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshlavallee&theme=tokyonight)](https://github.com/joshlavallee/github-readme-stats)
-[![Josh Lavallee - Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=joshlavallee&theme=tokyonight)](https://github.com/joshlavallee/github-readme-stats)
+[![TOP LANGS](https://github-readme-stats.vercel.app/api/top-langs/?username=joshlavallee&theme=tokyonight)](https://github.com/joshlavallee/github-readme-stats)
+[![WAKATIME STATS](https://github-readme-stats.vercel.app/api/wakatime?username=joshlavallee&theme=tokyonight)](https://github.com/joshlavallee/github-readme-stats)
 
