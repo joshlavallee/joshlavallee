@@ -1,5 +1,24 @@
 ### Hi there 👋
 
+## Connect
+
+## 📖 About me
+
+* 💻 I'm a front end developer
+* 🎨 I'm a self-taught photographer
+* 🎓 I'm a Computer Science student (graduating in October 2021)
+* 🌐 You can see some of my projects on [my portfolio](https://freshidea.com/jonah/)
+* 📺 I make web development and tech tutorials on [YouTube](https://www.youtube.com/c/DevProTips)
+
+## :sassy_man:  About me
+- :school: I am a `Junior` at Faculty of Computers & Informatics at Suez Canal University
+- :trophy: `ACPC` Finalist 2021
+- :technologist: I love using Software as a solution for every `Problem`
+- :computer: I am a competitive programmer mainly at `Codeforces`
+- :student: I’m currently learning: `Computer Science` and `Software Engineering`.
+- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1gdiny_4f5TVbSdfyAQxokLMMrBTi054P/view?usp=sharing).
+- :nerd_face: Always `learning new things`
+
 <p style="display: inline-block;" align="center">
   <kbd>
     <kbd>Front-end</kbd>
