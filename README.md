@@ -1,20 +1,13 @@
-<div align="left">
-	[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josh-lavallee/)
-	[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yoshigrams/)
-	[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:j.lavallee.dev@gmail.com)
-</div>
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josh-lavallee/)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yoshigrams/)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:j.lavallee.dev@gmail.com)
+
 
 ## About Me
 * 💻 I'm a front end `developer`
 * 📸 I'm a self-taught `photographer`
 * 🎓 I'm currently learning `Three JS` and `Blender`
-
-## Connect with me
-<div align="left">
-	[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josh-lavallee/)
-	[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yoshigrams/)
-	[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:j.lavallee.dev@gmail.com)
-</div>
 
 ## 🤹‍♂️ My Skills
 
