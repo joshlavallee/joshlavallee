@@ -4,7 +4,7 @@
 * 🎨 I'm a self-taught `photographer`
 * 🎓 I'm currently learning `Three JS` and `Blender`
 
-## <img src="https://giphy.com/gifs/nb-non-binary-non-binaire-Riq57FHJ23qdsv6Q4H" width="30px"> Connect with me
+## <img src="https://media.giphy.com/media/Riq57FHJ23qdsv6Q4H/giphy.gif" width="30px"> Connect with me
 <p align="left">
 	<a href="mailto:j.lavallee.dev@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/joshlavallee"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
