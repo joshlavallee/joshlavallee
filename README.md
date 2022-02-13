@@ -5,11 +5,15 @@
 * 🏈 I'm a `sports fan`
 * 🐶 I'm a `dog dad`
 
-## LETS CONNECT!
+<br>
+
+## CONNECT
 [![LINKEDIN](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josh-lavallee/)
 [![INSTAGRAM](https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/yoshigrams/)
 [![TWITCH](https://img.shields.io/badge/TWITCH-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.com/yoshigrams/)
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:j.lavallee.dev@gmail.com)
+
+<br/>
 
 ## SKILLS
 
@@ -49,6 +53,8 @@
 ![VS CODE](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![LIGHTROOM](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 ![PHOTOSHOP](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+
+<br>
 
 ## GITHUB STATS
 [![TOP LANGS](https://github-readme-stats.vercel.app/api/top-langs/?username=joshlavallee&theme=tokyonight)](https://github.com/joshlavallee/github-readme-stats)
