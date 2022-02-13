@@ -1,7 +1,9 @@
 ## About Me
+* 🍁 I'm based in `Winnipeg, Manitoba, Canada`
 * 💻 I'm a front end `developer`
 * 📸 I'm a self-taught `photographer`
-* 🎓 I'm currently learning ![THREE JS](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) and ![BLENDER](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+* 🏈 I'm a `sports fan`
+* 🐶 I'm a `dog dad`
 
 ## Connect
 [![LINKEDIN](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josh-lavallee/)
@@ -19,9 +21,9 @@
 ![TYPESCRIPT](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![GIT LAB](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![YARN](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)![GITLAB](https://img.shields.io/badge/GitLabCI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)![GITLAB](https://img.shields.io/badge/GitLabCI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![GIT](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### Things I'm Learning
 ![THREE JS](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
