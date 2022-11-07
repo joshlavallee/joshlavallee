@@ -33,7 +33,7 @@
 
 ### Things I'm Learning
 
-## Frontend Masters Profile: https://frontendmasters.com/u/joshlavallee/
+#### Frontend Masters Profile: https://frontendmasters.com/u/joshlavallee/
 
 ![THREE JS](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![SPRING](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
